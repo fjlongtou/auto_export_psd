@@ -1,4 +1,2 @@
-/dist
-/FGUIProject
-/node_modules
-/dist1
+*.psb
+/exported_layers
