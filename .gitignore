@@ -1,2 +1,3 @@
 *.psb
 /exported_layers
+/dist
